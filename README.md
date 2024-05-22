@@ -19,7 +19,3 @@ url = "<copied_address>"
 path = "<where_you_want_to_store>"
 crawl_bios(url, path)
 ```
-
-## TODO 
-
-- create a `.py` script
